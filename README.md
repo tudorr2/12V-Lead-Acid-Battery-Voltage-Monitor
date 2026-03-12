@@ -32,7 +32,6 @@ _A compact, self-powered PCB module that visually displays the charge level of a
 - [PCB Specifications](#-pcb-specifications)
 - [Breadboard Prototype](#-breadboard-prototype)
 - [Final PCB](#-final-pcb)
-- [The Team](#-the-team)
 
 ---
 
@@ -297,15 +296,6 @@ Two onboard trimpots allow field calibration without any extra equipment:
     </td>
   </tr>
 </table>
-
----
-
-## 📚 References
-
-- [LM3914 Datasheet — Texas Instruments](https://www.ti.com/lit/ds/symlink/lm3914.pdf)
-- [Course Materials — PTCAD 2025](https://curs.upb.ro/2025/course/view.php?id=3052)
-- [TME Electronic Components](https://www.tme.eu)
-- [Farnell Components](https://ro.farnell.com)
 
 ---
 
