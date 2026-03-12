@@ -311,6 +311,6 @@ Two onboard trimpots allow field calibration without any extra equipment:
 
 <div align="center">
 
-_Designed with ❤️ using Cadence OrCAD 17.2 · Faculty of ETTI · 2025–2026_
+_Designed with ❤️ using Cadence OrCAD 17.2 · 2025–2026_
 
 </div>
