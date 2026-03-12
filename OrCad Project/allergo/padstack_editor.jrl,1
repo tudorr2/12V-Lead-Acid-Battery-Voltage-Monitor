@@ -1,0 +1,14 @@
+\t (00:00:00) padstack_editor 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Fri Jan 23 12:23:06 2026
+\t (00:00:00)         Host=TDR User=tudor Pid=24564 CPUs=12
+\t (00:00:00) CmdLine= padstack_editor -mpssession tudor -file ./#Taaaacs17104.tmp -pname PAD125-1 -data C:/Users/tudor/AppData/Local/Temp/#Taaaacu17104.tmp
+\t (00:00:00) 
+\d (00:00:01) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:10) QtSignal GuidedDrillTab holeXSize editingFinished 125.0
+\d (00:00:10) QtSignal GuidedTabsParent GuidedTabs currentChanged "Secondary Drill"
+\d (00:00:10) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:11) QtSignal MainWindow Save triggered
+\d (00:00:12) QtSignal pseCheckBrowser Close clicked
+\d (00:00:13) QtFillin Yes
+\d (00:00:13) QtSignal GuidedDrillTab Plating CurrentIndexChanged Non-plated
+\t (00:00:18)     Journal end - Fri Jan 23 12:23:24 2026

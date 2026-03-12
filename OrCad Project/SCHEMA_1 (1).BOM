@@ -1,0 +1,25 @@
+Proiect PTCAD  Revised: Wednesday, January 07, 2026
+Coordonator: PROF. DR. ING. Norocel Dragos Codreanu          Revision: ?
+
+
+
+
+
+
+
+Bill Of Materials        January 7,2026      16:39:41	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	1	CN1	BATTERY 12 VDC
+2	1	C1	10uF/50V
+3	1	C2	0.1uF
+4	3	D1,D2,D3	YELLOW LED
+5	5	D4,D5,D6,D7,D8	GREEN LED
+6	2	D9,D10	RED LED
+7	1	J1	MODE JUMPER
+8	2	PR1,PR2	4.7K/5K PRESET
+9	1	R1	4.7K
+10	1	R2	1.2K
+11	1	U1	LM3914

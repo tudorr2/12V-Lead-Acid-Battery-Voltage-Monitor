@@ -1,0 +1,7 @@
+\t (00:00:00) padstack_editor 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Fri Jan 23 12:23:30 2026
+\t (00:00:00)         Host=TDR User=tudor Pid=19512 CPUs=12
+\t (00:00:00) CmdLine= padstack_editor -mpssession tudor -file ./#Taaaacv17104.tmp -pname PAD125-1 -data C:/Users/tudor/AppData/Local/Temp/#Taaaacx17104.tmp
+\t (00:00:00) 
+\d (00:00:01) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\t (00:00:07)     Journal end - Fri Jan 23 12:23:37 2026

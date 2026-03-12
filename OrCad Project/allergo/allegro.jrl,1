@@ -1,0 +1,244 @@
+\t (00:00:17) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:17)     Journal start - Mon Jan 26 12:31:52 2026
+\t (00:00:17)         Host=TDR User=tudor Pid=8908 CPUs=12
+\t (00:00:17) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:17) 
+   (00:00:17) Loading axlcore.cxt 
+\t (00:00:17) Opening existing design...
+\d (00:00:18) Design opened: C:/Users/tudor/Desktop/etti an 2 sem 1/ptcad/PTCAD/pcb editor/SCHEMA_1.brd
+\t (00:00:18) Grids are drawn 40.0, 40.0 apart for enhanced viewability.
+\i (00:00:18) trapsize 332
+\i (00:00:19) trapsize 340
+\t (00:00:19) Grids are drawn 40.0, 40.0 apart for enhanced viewability.
+\i (00:00:19) trapsize 340
+\i (00:00:19) trapsize 324
+\t (00:00:19) Grids are drawn 160.0, 160.0 apart for enhanced viewability.
+\i (00:00:19) trapsize 1312
+\t (00:00:19) Grids are drawn 40.0, 40.0 apart for enhanced viewability.
+\i (00:00:20) etchedit 
+\i (00:07:59) plot setup 
+\i (00:08:01) setwindow form.fpfileplotsetup
+\i (00:08:01) FORM fpfileplotsetup windows  
+\i (00:08:03) FORM fpfileplotsetup general  
+\i (00:08:12) FORM fpfileplotsetup windows  
+\i (00:08:14) FORM fpfileplotsetup general  
+\i (00:08:16) FORM fpfileplotsetup fpplotmirror YES 
+\i (00:08:17) FORM fpfileplotsetup fpplotmirror NO 
+\i (00:08:45) FORM fpfileplotsetup cancel  
+\i (00:08:45) setwindow pcb
+\i (00:08:45) etchedit 
+\i (00:08:49) plot preview 
+\i (01:46:07) zoom in 1 
+\i (01:46:07) setwindow pcb
+\i (01:46:07) zoom in 2663.0 452.2
+\t (01:46:07) Grids are drawn 20.0, 20.0 apart for enhanced viewability.
+\i (01:46:07) trapsize 162
+\i (01:46:07) zoom in 1 
+\i (01:46:07) setwindow pcb
+\i (01:46:07) zoom in 2663.1 452.2
+\t (01:46:07) Grids are drawn 10.0, 10.0 apart for enhanced viewability.
+\i (01:46:07) trapsize 81
+\i (01:46:08) zoom out 1 
+\i (01:46:08) setwindow pcb
+\i (01:46:08) zoom out 2648.5 453.8
+\t (01:46:08) Grids are drawn 20.0, 20.0 apart for enhanced viewability.
+\i (01:46:08) trapsize 162
+\i (01:46:12) zoom fit 
+\t (01:46:12) Grids are drawn 10.0, 10.0 apart for enhanced viewability.
+\i (01:46:12) trapsize 119
+\i (01:46:19) zoom in 1 
+\i (01:46:19) setwindow pcb
+\i (01:46:19) zoom in 726.8 998.2
+\i (01:46:19) trapsize 59
+\i (01:46:19) zoom in 1 
+\i (01:46:19) setwindow pcb
+\i (01:46:19) zoom in 726.8 998.2
+\i (01:46:19) trapsize 30
+\i (01:46:20) zoom out 1 
+\i (01:46:20) setwindow pcb
+\i (01:46:20) zoom out 726.8 998.2
+\i (01:46:20) trapsize 59
+\i (01:46:20) zoom out 1 
+\i (01:46:20) setwindow pcb
+\i (01:46:20) zoom out 686.5 1003.0
+\i (01:46:20) trapsize 119
+\i (01:46:26) zoom in 1 
+\i (01:46:26) setwindow pcb
+\i (01:46:26) zoom in -233.4 457.6
+\i (01:46:26) trapsize 59
+\i (01:46:26) zoom in 1 
+\i (01:46:26) setwindow pcb
+\i (01:46:26) zoom in -238.1 477.8
+\i (01:46:26) trapsize 30
+\i (01:46:27) zoom in 1 
+\i (01:46:27) setwindow pcb
+\i (01:46:27) zoom in -241.1 489.1
+\i (01:46:27) trapsize 15
+\i (01:46:27) zoom in 1 
+\i (01:46:27) setwindow pcb
+\i (01:46:27) zoom in -241.0 489.1
+\i (01:46:27) trapsize 7
+\i (01:46:27) zoom in 1 
+\i (01:46:27) setwindow pcb
+\i (01:46:27) zoom in -239.8 490.2
+\i (01:46:27) trapsize 4
+\i (01:46:28) zoom out 1 
+\i (01:46:28) setwindow pcb
+\i (01:46:28) zoom out -187.8 498.7
+\i (01:46:28) trapsize 7
+\i (01:46:28) zoom out 1 
+\i (01:46:28) setwindow pcb
+\i (01:46:28) zoom out -188.1 497.6
+\i (01:46:28) trapsize 15
+\i (01:46:29) zoom out 1 
+\i (01:46:29) setwindow pcb
+\i (01:46:29) zoom out -188.2 497.3
+\i (01:46:29) trapsize 30
+\i (01:46:29) zoom out 1 
+\i (01:46:29) setwindow pcb
+\i (01:46:29) zoom out -188.1 497.2
+\i (01:46:29) trapsize 59
+\i (01:46:29) zoom out 1 
+\i (01:46:29) setwindow pcb
+\i (01:46:29) zoom out -188.2 497.3
+\i (01:46:29) trapsize 118
+\i (01:46:30) zoom out 1 
+\i (01:46:30) setwindow pcb
+\i (01:46:30) zoom out -188.1 497.3
+\t (01:46:30) Grids are drawn 20.0, 20.0 apart for enhanced viewability.
+\i (01:46:30) trapsize 237
+\i (01:46:30) roam start
+\i (01:46:30) roam x -32
+\i (01:46:30) roam y 32
+\i (01:46:31) roam x -96
+\i (01:46:31) roam y 32
+\i (01:46:31) roam x -288
+\i (01:46:31) roam y 32
+\i (01:46:31) roam x -192
+\i (01:46:31) roam x -96
+\i (01:46:31) roam x 80
+\i (01:46:31) roam x 480
+\i (01:46:31) roam y 48
+\i (01:46:31) roam x 16
+\i (01:46:31) roam x 48
+\i (01:46:31) roam x 96
+\i (01:46:31) roam x 32
+\i (01:46:31) roam y -32
+\i (01:46:31) roam x 32
+\i (01:46:31) roam y -16
+\i (01:46:32) roam x 16
+\i (01:46:32) roam y -16
+\i (01:46:32) roam x 16
+\i (01:46:32) roam y -16
+\i (01:46:32) roam y -16
+\i (01:46:32) roam x -16
+\i (01:46:32) roam y -48
+\i (01:46:32) roam x -144
+\i (01:46:32) roam y -128
+\i (01:46:32) roam x -64
+\i (01:46:32) roam y -64
+\i (01:46:32) roam x -16
+\i (01:46:32) roam y -16
+\i (01:46:32) roam x -16
+\i (01:46:32) roam x 16
+\i (01:46:32) roam y 80
+\i (01:46:32) roam x 240
+\i (01:46:32) roam y 176
+\i (01:46:32) roam x 320
+\i (01:46:32) roam y 208
+\i (01:46:32) roam x 96
+\i (01:46:32) roam y 64
+\i (01:46:32) roam y 16
+\i (01:46:32) roam x -16
+\i (01:46:32) roam y -32
+\i (01:46:32) roam x -64
+\i (01:46:32) roam y -48
+\i (01:46:33) roam x -192
+\i (01:46:33) roam y -96
+\i (01:46:33) roam x -48
+\i (01:46:33) roam y -16
+\i (01:46:33) roam x 80
+\i (01:46:33) roam y 80
+\i (01:46:33) roam x 64
+\i (01:46:33) roam y 64
+\i (01:46:33) roam x 16
+\i (01:46:33) roam y 16
+\i (01:46:33) roam y 32
+\i (01:46:33) roam x 16
+\i (01:46:33) roam y 32
+\i (01:46:33) roam y 32
+\i (01:46:33) roam y -64
+\i (01:46:33) roam x -48
+\i (01:46:33) roam y -80
+\i (01:46:34) roam x -16
+\i (01:46:34) roam y -64
+\i (01:46:34) roam y -16
+\i (01:46:34) roam y -16
+\i (01:46:34) roam y -16
+\i (01:46:34) roam x 16
+\i (01:46:34) roam y -32
+\i (01:46:34) roam x 16
+\i (01:46:34) roam y -16
+\i (01:46:34) roam x 16
+\i (01:46:34) roam y -32
+\i (01:46:34) roam y -32
+\i (01:46:34) roam x 16
+\i (01:46:34) roam y -64
+\i (01:46:34) roam y -64
+\i (01:46:34) roam y -32
+\i (01:46:34) roam end
+\i (01:46:35) zoom in 1 
+\i (01:46:35) setwindow pcb
+\i (01:46:35) zoom in 99.5 1345.2
+\t (01:46:35) Grids are drawn 10.0, 10.0 apart for enhanced viewability.
+\i (01:46:35) trapsize 118
+\i (01:46:35) zoom in 1 
+\i (01:46:35) setwindow pcb
+\i (01:46:35) zoom in 99.5 1345.2
+\i (01:46:35) trapsize 59
+\i (01:46:35) zoom in 1 
+\i (01:46:35) setwindow pcb
+\i (01:46:35) zoom in 100.7 1346.4
+\i (01:46:35) trapsize 30
+\i (01:46:39) zoom out 1 
+\i (01:46:39) setwindow pcb
+\i (01:46:39) zoom out 258.3 1302.0
+\i (01:46:39) trapsize 59
+\i (01:46:39) zoom out 1 
+\i (01:46:39) setwindow pcb
+\i (01:46:39) zoom out 250.0 1297.3
+\i (01:46:39) trapsize 118
+\i (01:46:40) zoom out 1 
+\i (01:46:40) setwindow pcb
+\i (01:46:40) zoom out 359.0 1278.3
+\t (01:46:40) Grids are drawn 20.0, 20.0 apart for enhanced viewability.
+\i (01:46:40) trapsize 237
+\i (01:46:41) zoom in 1 
+\i (01:46:41) setwindow pcb
+\i (01:46:41) zoom in 2117.1 1349.5
+\t (01:46:41) Grids are drawn 10.0, 10.0 apart for enhanced viewability.
+\i (01:46:41) trapsize 118
+\i (01:46:41) zoom in 1 
+\i (01:46:41) setwindow pcb
+\i (01:46:41) zoom in 2117.1 1349.5
+\i (01:46:41) trapsize 59
+\i (01:46:42) zoom out 1 
+\i (01:46:42) setwindow pcb
+\i (01:46:42) zoom out 1167.0 1379.1
+\i (01:46:42) trapsize 118
+\i (01:46:46) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SILK_SCREEN_TOP"
+\i (01:46:46) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SILK_SCREEN_TOP"
+\i (01:46:49) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SOLDER_MASK_TOP"
+\i (01:46:49) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SOLDER_MASK_TOP"
+\i (01:46:50) zoom out 1 
+\i (01:46:50) setwindow pcb
+\i (01:46:50) zoom out 1458.4 1056.9
+\t (01:46:50) Grids are drawn 20.0, 20.0 apart for enhanced viewability.
+\i (01:46:50) trapsize 237
+\i (01:46:50) zoom in 1 
+\i (01:46:50) setwindow pcb
+\i (01:46:50) zoom in 750.1 985.8
+\t (01:46:50) Grids are drawn 10.0, 10.0 apart for enhanced viewability.
+\i (01:46:50) trapsize 118
+\i (01:49:36) exit 
+\t (01:49:36)     Journal end - Mon Jan 26 14:21:11 2026

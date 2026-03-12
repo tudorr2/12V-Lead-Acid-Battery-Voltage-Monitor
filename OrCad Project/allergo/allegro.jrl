@@ -1,0 +1,84 @@
+\t (00:00:07) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:07)     Journal start - Wed Jan 28 10:59:49 2026
+\t (00:00:07)         Host=TDR User=tudor Pid=28400 CPUs=12
+\t (00:00:07) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:07) 
+   (00:00:07) Loading axlcore.cxt 
+\t (00:00:07) Opening existing design...
+\d (00:00:08) Design opened: C:/Users/tudor/Desktop/etti an 2 sem 1/ptcad/PTCAD/pcb editor/SCHEMA_1.brd
+\t (00:00:08) Grids are drawn 20.0, 20.0 apart for enhanced viewability.
+\i (00:00:08) trapsize 224
+\i (00:00:08) trapsize 228
+\t (00:00:08) Grids are drawn 40.0, 40.0 apart for enhanced viewability.
+\i (00:00:08) trapsize 266
+\i (00:00:08) trapsize 265
+\t (00:00:08) Grids are drawn 160.0, 160.0 apart for enhanced viewability.
+\i (00:00:08) trapsize 1545
+\t (00:00:08) Grids are drawn 40.0, 40.0 apart for enhanced viewability.
+\i (00:00:08) etchedit 
+\i (00:00:54) artwork 
+\w (00:00:55) For raster artwork formats, artwork accuracy must be at least one greater than the database accuracy, up to the maximum accuracy allowed by the selected output format. Change Format Decimal places.
+\i (00:00:57) fillin confirm
+\i (00:00:58) setwindow form.film_control
+\i (00:00:58) FORM film_control film_control  
+\i (00:02:12) FORM film_control cancel  
+\i (00:02:12) setwindow pcb
+\i (00:02:12) etchedit 
+\i (00:02:13) pick grid -1497.5 2195.4
+\t (00:02:13) last pick:  -1495.0 2195.0
+\i (00:02:16) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SOLDER_MASK_TOP"
+\i (00:02:16) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SOLDER_MASK_TOP"
+\i (00:02:18) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SOLDER_MASK_BOTTOM"
+\i (00:02:18) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SOLDER_MASK_BOTTOM"
+\i (00:02:19) zoom out 1 
+\i (00:02:19) setwindow pcb
+\i (00:02:19) zoom out 1778.7 772.3
+\t (00:02:19) Grids are drawn 80.0, 80.0 apart for enhanced viewability.
+\i (00:02:19) trapsize 531
+\i (00:02:19) zoom out 1 
+\i (00:02:19) setwindow pcb
+\i (00:02:19) zoom out 4979.6 -1787.9
+\i (00:02:19) trapsize 631
+\i (00:02:20) zoom in 1 
+\i (00:02:20) setwindow pcb
+\i (00:02:20) zoom in 8156.4 -2912.8
+\t (00:02:20) Grids are drawn 40.0, 40.0 apart for enhanced viewability.
+\i (00:02:20) trapsize 315
+\i (00:02:20) zoom out 1 
+\i (00:02:20) setwindow pcb
+\i (00:02:20) zoom out 3087.0 -188.0
+\t (00:02:20) Grids are drawn 80.0, 80.0 apart for enhanced viewability.
+\i (00:02:20) trapsize 631
+\i (00:02:20) zoom out 1 
+\i (00:02:20) setwindow pcb
+\i (00:02:20) zoom out 11398.4 2473.6
+\i (00:02:20) trapsize 631
+\i (00:02:21) zoom in 1 
+\i (00:02:21) setwindow pcb
+\i (00:02:21) zoom in 4119.7 2221.3
+\t (00:02:21) Grids are drawn 40.0, 40.0 apart for enhanced viewability.
+\i (00:02:21) trapsize 315
+\i (00:02:21) zoom in 1 
+\i (00:02:21) setwindow pcb
+\i (00:02:21) zoom in 2639.2 1855.5
+\t (00:02:21) Grids are drawn 20.0, 20.0 apart for enhanced viewability.
+\i (00:02:21) trapsize 158
+\i (00:02:23) prepopup -1703.4 1789.3
+\i (00:02:25) artwork 
+\w (00:02:25) For raster artwork formats, artwork accuracy must be at least one greater than the database accuracy, up to the maximum accuracy allowed by the selected output format. Change Format Decimal places.
+\i (00:02:26) fillin confirm
+\i (00:02:27) setwindow form.film_control
+\i (00:02:27) FORM film_control film_control  
+\i (00:02:30) setwindow pcb
+\i (00:02:30) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:02:31) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:02:31) QtSignal ColorVisibilityPane CVPGlobalVisOff clicked
+\i (00:02:32) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:02:36) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP"
+\i (00:02:36) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: TOP"
+\i (00:03:02) setwindow form.film_control
+\i (00:03:02) FORM film_control domain_setting  
+\i (00:03:07) setwindow form.film_domain
+\i (00:03:07) FORM film_domain film_domain cell 1,1 
+\i (00:03:08) FORM film_domain cancel  
+\i (00:04:14
