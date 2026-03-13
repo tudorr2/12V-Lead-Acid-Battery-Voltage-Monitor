@@ -247,8 +247,6 @@ Two onboard trimpots allow field calibration without any extra equipment:
 | Software        | Cadence OrCAD PCB Editor 17.2S025        |
 | Output Format   | Gerber RS-274X                           |
 
-> These specifications correspond to **Team 5** parameters from the project specification table.
-
 ---
 
 ## 🔬 Breadboard Prototype
@@ -259,11 +257,11 @@ Two onboard trimpots allow field calibration without any extra equipment:
   <tr>
     <td align="center">
       <img src="./images/MODE1.jpeg" width="350px" alt="Breadboard Front"/><br/>
-      <sub><b>Mode 1</b></sub>
+      <sub><b>Bar Mode</b></sub>
     </td>
     <td align="center">
       <img src="./images/MODE2.jpeg" width="350px" alt="LEDs Lit"/><br/>
-      <sub><b>Mode 2</b></sub>
+      <sub><b>Dot Mode</b></sub>
     </td>
   </tr>
 </table>
