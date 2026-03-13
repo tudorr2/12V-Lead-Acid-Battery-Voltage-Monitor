@@ -123,7 +123,7 @@ Battery (12V DC)
 
 > The finalized schematic drawn in Cadence OrCAD:
 
-> ![CAD Schematic](./images/orcad_sch.png)
+> ![CAD Schematic](./images/orcad_sch.jpg)
 
 ---
 
