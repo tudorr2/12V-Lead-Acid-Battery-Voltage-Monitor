@@ -31,7 +31,6 @@ _A compact, self-powered PCB module that visually displays the charge level of a
 - [Calibration](#-calibration)
 - [PCB Specifications](#-pcb-specifications)
 - [Breadboard Prototype](#-breadboard-prototype)
-- [Final PCB](#-final-pcb)
 
 ---
 
