@@ -115,7 +115,7 @@ Battery (12V DC)
 
 > The reference schematic used as a starting point for the PCB design:
 
-> ![Initial Schematic](./images/schematic_initial.png)
+> ![Initial Schematic](./images/init_sch.png)
 
 ---
 
