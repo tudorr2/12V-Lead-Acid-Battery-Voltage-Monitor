@@ -123,7 +123,7 @@ Battery (12V DC)
 
 > The finalized schematic drawn in Cadence OrCAD:
 
-> ![CAD Schematic](./images/schematic_cad.png)
+> ![CAD Schematic](./images/orcad_sch.png)
 
 ---
 
@@ -133,49 +133,49 @@ The PCB was designed in **Cadence OrCAD PCB Editor 17.2** and exported as Gerber
 
 ### 🟢 Layer TOP (Etch/Top Copper)
 
-> ![Layer TOP](./images/layer_top.png)
+> ![Layer TOP](./images/top.jpg)
 > _Top copper layer — signal routing_
 
 ---
 
 ### 🟡 Layer BOTTOM (Etch/Bottom Copper)
 
-> ![Layer BOTTOM](./images/layer_bottom.png)
+> ![Layer BOTTOM](./images/bot.jpg)
 > _Bottom copper layer — ground plane and return paths_
 
 ---
 
 ### 🟫 Layer SOLDER MASK TOP
 
-> ![Solder Mask TOP](./images/solder_mask_top.png)
+> ![Solder Mask TOP](./images/soldermask_top.jpg)
 > _Top solder mask — exposes only pads for soldering_
 
 ---
 
 ### 🟫 Layer SOLDER MASK BOTTOM
 
-> ![Solder Mask BOTTOM](./images/solder_mask_bottom.png)
+> ![Solder Mask BOTTOM](./images/soldermask_bottom.jpg)
 > _Bottom solder mask_
 
 ---
 
 ### 🔵 Layer SILK SCREEN TOP
 
-> ![Silkscreen TOP](./images/silkscreen_top.png)
+> ![Silkscreen TOP](./images/silkscreen_top.jpg)
 > _Component reference designators and outlines_
 
 ---
 
 ### 📋 Layer ASSEMBLY DRAWING TOP
 
-> ![Assembly Drawing](./images/assembly_drawing_top.png)
+> ![Assembly Drawing](./images/assembly_drawing.jpg)
 > _Full assembly view showing all component placements_
 
 ---
 
 ### 🏭 Layer FABRICATION
 
-> ![Fabrication Layer](./images/fabrication.png)
+> ![Fabrication Layer](./images/fab.jpg)
 > _Board outline, dimensions, and drill chart_
 
 **Drill Chart (TOP to BOTTOM):**
@@ -258,41 +258,12 @@ Two onboard trimpots allow field calibration without any extra equipment:
 <table>
   <tr>
     <td align="center">
-      <img src="./images/breadboard_front.jpg" width="350px" alt="Breadboard Front"/><br/>
-      <sub><b>Breadboard — Front View</b></sub>
+      <img src="./images/MODE1.jpeg" width="350px" alt="Breadboard Front"/><br/>
+      <sub><b>Mode 1</b></sub>
     </td>
     <td align="center">
-      <img src="./images/breadboard_leds.jpg" width="350px" alt="LEDs Lit"/><br/>
-      <sub><b>Breadboard — LEDs Active</b></sub>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🖥️ Final PCB
-
-> The manufactured PCB with all components soldered:
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="./images/pcb_top.jpg" width="350px" alt="PCB Top Side"/><br/>
-      <sub><b>PCB — Top Side</b></sub>
-    </td>
-    <td align="center">
-      <img src="./images/pcb_bottom.jpg" width="350px" alt="PCB Bottom Side"/><br/>
-      <sub><b>PCB — Bottom Side</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="./images/pcb_powered.jpg" width="350px" alt="PCB Powered On"/><br/>
-      <sub><b>PCB — Powered & Running</b></sub>
-    </td>
-    <td align="center">
-      <img src="./images/pcb_full.jpg" width="350px" alt="Final Assembly"/><br/>
-      <sub><b>PCB — Full Assembly</b></sub>
+      <img src="./images/MODE2.jpeg" width="350px" alt="LEDs Lit"/><br/>
+      <sub><b>Mode 2</b></sub>
     </td>
   </tr>
 </table>
